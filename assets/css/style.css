@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.character {
+	position: absolute;
+	width: 100px;
+}
+
+#ai {
+	top: 300px;
+}
+
+#player {
+	top: 500px;
+}
+
+#bg-images{
+	background-image: url('./assets/images/brown-soil-texture-background/20483.jpg');
+}
