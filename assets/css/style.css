@@ -18,5 +18,5 @@
 }
 
 #bg-images{
-	background-image: url('./assets/images/brown-soil-texture-background/20483.jpg');
+	background: url("../images/brown-soil-texture-background/20483.jpg") no-repeat center center fixed;
 }
